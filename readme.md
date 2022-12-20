@@ -1,4 +1,4 @@
-#About
+# About
 This is an intentionally vulnerable c application copy pastad from chatgpt
 # Build
 docker build -t overflow-core .
